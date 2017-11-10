@@ -1,4 +1,4 @@
-package com.sb2.service;
+package com.sb2.hystrix;
 
 import com.google.common.base.MoreObjects;
 
